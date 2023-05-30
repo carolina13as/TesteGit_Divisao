@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\bin\Debug\net6.0\Teste do Git.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\bin\Debug\net6.0\Teste do Git.deps.json
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\bin\Debug\net6.0\Teste do Git.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\bin\Debug\net6.0\Teste do Git.dll
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\bin\Debug\net6.0\Teste do Git.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\obj\Debug\net6.0\Teste do Git.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\obj\Debug\net6.0\Teste do Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\obj\Debug\net6.0\Teste do Git.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\obj\Debug\net6.0\Teste do Git.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\obj\Debug\net6.0\Teste do Git.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\obj\Debug\net6.0\Teste do Git.dll
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\obj\Debug\net6.0\refint\Teste do Git.dll
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\obj\Debug\net6.0\Teste do Git.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\obj\Debug\net6.0\Teste do Git.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Teste do Git\Teste do Git\obj\Debug\net6.0\ref\Teste do Git.dll

@@ -14,12 +14,16 @@ catch(DivideByZeroException ex)
 {
     Console.WriteLine($"\nDvisão por zero é invalido!\n{ex.Message} - Menssagem de erro");
 }
-catch(InvalidCastException ex)
+catch(FormatException ex)
 {
     Console.WriteLine($"\nDvisão por letra é invalida, não se pode converte letra em número!\n{ex.Message} - Menssagem de erro");
 }
 catch(Exception ex)
 {
     Console.WriteLine($"\nOcorreu algum erro!\n{ex.Message} - Menssagem de erro");
+}
+finally
+{
+    Console.WriteLine($"Aqui passa de qualquer forma!");
 }
 
